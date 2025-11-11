@@ -1,0 +1,6 @@
+# Fichiers de sauvegarde Alteryx
+*.bak
+
+# Fichiers temporaires
+*.tmp
+*.log
